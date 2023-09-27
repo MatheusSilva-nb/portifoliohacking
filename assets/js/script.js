@@ -4,7 +4,7 @@
  * element toggle function
  */
 
-const elemToggleFunc = function (elem) { elem.classList.toggle("active"); }
+const elemToggleFunc = function
 
 
 
